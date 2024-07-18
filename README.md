@@ -1,5 +1,5 @@
-**_<h1 class="text-primary align-center">:vulcan_salute: Trabajos Realizados en Clase :computer:</h1>_**
-**_<h2 class="text-success align-center">Módulo 2 - Fundamentos de Programación en Java</h2>_**
+**_<h1 align="center">:vulcan_salute: Trabajos Realizados en Clase :computer:</h1>_**
+**_<h2>Módulo 2 - Fundamentos de Programación en Java</h2>_**
 
 - [Clase 10 - Variables y Tipos de Datos, String, Scanner](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/43927d6f36d32372452a6c7a83308d0d047504e3/src/clase10appmov)
 - [Clase 11 - Operadores, If-Else, Operador Ternario, Switch-Case](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/d650117e6c29d18e0db796bdfada344874dbd584/src/clase11appmov)
