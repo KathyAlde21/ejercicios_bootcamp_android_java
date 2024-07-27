@@ -16,7 +16,7 @@
 - [Clase 22 - Ejercicio Integrador POO]()
 
 
-**<h2>Color en la Consola</h2>**
-<p>Se debe escribir el código en cada línea, sirve para destacar una frase o mensaje</p>
-[codigos](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/b8880a7ce7dfd2dbd97e02788427877cf06371d0/src/ColorEnConsola)
+**_<h2>Color en la Consola</h2>_**
+Se debe escribir el código en cada línea, sirve para destacar una frase o mensaje
+- [codigo](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/b8880a7ce7dfd2dbd97e02788427877cf06371d0/src/ColorEnConsola)
 
