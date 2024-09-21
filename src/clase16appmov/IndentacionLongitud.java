@@ -21,6 +21,8 @@ System.out.println("lorem");
             + "magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
             + "utllamco laboris nisi ut aliquip ex ea commodo consequat. Duis"
             + "aute irure dolor in reprehenderit in voluptate velit esse");
+        
+        //si doy un especio y salto genera solo el cierre de comillas y el +
  
         
     }
