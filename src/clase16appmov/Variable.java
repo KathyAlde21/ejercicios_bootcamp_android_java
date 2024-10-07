@@ -49,7 +49,7 @@ public class Variable {
     
     final int LONGITUD_MAXIMA = 20; //indico que es una variable constante
         
-    LONGITUD_MAXIMA = 30; //
+    LONGITUD_MAXIMA = 30; 
 
     int NUMERO_PI;
 
