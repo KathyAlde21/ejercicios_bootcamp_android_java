@@ -35,6 +35,8 @@ public class Variable {
         
     String SaluDoCompleto = "Holita mundo"; //hay que fijarse que quede bien escrito
     System.out.println(SaluDoCompleto); //llamando en consola
+    System.out.println(unidad);
+    System.out.println(suma);
     
     /* ---------------------------------------------------- */
     
@@ -47,12 +49,12 @@ public class Variable {
     //   int LONGITUD_MINIMA;
     // para que quede fija se pone final ya que asi no se puede modificar
     
-    final int LONGITUD_MAXIMA = 20; //indico que es una variable constante
+ /*   final int LONGITUD_MAXIMA = 20; //indico que es una variable constante
         
     LONGITUD_MAXIMA = 30; 
 
     int NUMERO_PI;
-
+*/
     /* ---------------------------------------------------- */
     
     
