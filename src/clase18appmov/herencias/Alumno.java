@@ -26,10 +26,29 @@ public class Alumno extends Persona {
         this.idAlumno = idAlumno;
         this.carrera = carrera;
     }//fin constructor
+
+    public int getIdAlumno() {
+        return idAlumno;
+    }
+
+    public void setIdAlumno(int idAlumno) {
+        this.idAlumno = idAlumno;
+    }
+
+    public String getCarrera() {
+        return carrera;
+    }
+
+    public void setCarrera(String carrera) {
+        this.carrera = carrera;
+    }
+
+    //------------------------------------
     
     @Override
     public void mostrarDatos () {
-        System.out.println("este es un alumno");
+        super.mostrarDatos();
+        System.out.println("Este es un alumno");
     }
     
     @Override
@@ -39,13 +58,5 @@ public class Alumno extends Persona {
                 + '}' + super.toString(); //si escribo super.toString traigo
                         //los datos del alumno con la plantilla Persona (padre)
     }
-    
-    //para dejar publicos los datos privados los traigo con un get
-    public String getCarrera() {
-        return carrera;
-    }
-    
-    
-    
     
 }

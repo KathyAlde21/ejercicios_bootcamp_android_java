@@ -1,7 +1,8 @@
 
 package clase18appmov.herencias;
 
-//acá voy a llamar los otros
+import clase19appmov.intercambioObjetos.Materia;
+import clase19appmov.poliformismo.Listado;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,16 +17,25 @@ public class Main {
         
         Alumno alumno1 = new Alumno (
                 01,
-                "FullStack JS",
-                "Andrea",
-                "Alderete",
-                "1478523-7",
-                33      
+                "Economia", 
+                "Juanito", 
+                "Perez", 
+                "12312412-2", 
+                23   
+        );
+        
+        Alumno alumno2 = new Alumno (
+                02,
+                "Economia",
+                "Speedy",
+                "Gonzalez",
+                "123123-2",
+                25   
         );
         
         Profesor profesor1 = new Profesor (
-                2,
-                "Matematicas",
+                1,
+              //  "Matematicas",
                 "Tomas",
                 "Campos",
                 "159357-2",
@@ -43,7 +53,24 @@ public class Main {
         //para taer carrera que de privado paso a publico con get
         System.out.println(alumno1.getCarrera());
         
+        //-----------------------------------------------------
         
+    /*    listaPersonas.agregarPersonas(persona1);
+        listaPersonas.agregarPersonas(alumno1);
+        listaPersonas.agregarPersonas(profesor1);*/
+        
+//        listaPersonas.mostrarListado();
+        
+        //--------------------------------------------------
+        //CREAR UNA MATERIA
+        Materia historia = new Materia("Historia", profesor1);
+        
+        //agregar alumnos a la materia
+        historia.agregarAlumnos(alumno1);
+        historia.agregarAlumnos(alumno2);
+
+        //mostrar datos de la materia
+        historia.mostrarDatosMateria();
         
     }
 }
