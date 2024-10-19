@@ -4,7 +4,7 @@
 - [Clase 1 - Fundamentos en Kotlin]-()
 - [Clase 2 - Fundamentos en Kotlin, Parte 2]-()
 - [Clase 3 - Programación funcional]-() - [Iniciando en Jetpack Compose]-()
-- [Clase 4 - Components]-() - [Navegación]-()
+- [Clase 4 - Components]-() - [Navegacion]-()
 - [Clase 5 - Intercambio de datos entre vistas]-() - [App Descuentos, Parte 1 (Diseño)]-()
 - [Clase 6 - App Descuentos, Parte 2]-() - [App Loteria]-()
 - [Clase 7 - View Model]-()
@@ -65,12 +65,11 @@
 - [Clase 23 - Documentacion con Javadoc - Orden de Computadoras archivo comentado con Javadoc](https://github.com/KathyAlde21/orden_de_computadoras/blob/master/src/modelo/DispositivoEntrada.java)
 - [Clase 24 - Ejercicio Integracion de Servicios - Catalogo de Peliculas con Menú](https://github.com/KathyAlde21/catalogo_de_peliculas)
 - [Clase 25 - Ejercicio Integracion de Servicio - Catalogo de Peliculas creación txt para almacenar datos](https://github.com/KathyAlde21/catalogo_de_peliculas/blob/master/src/servicio/ServicioPeliculasArchivos.java)
-- [Clase 26 - Ejercicio Integrador de Sistemas Pos]-()
-- [Clase 27 - Test Unitarios]-()
+- [Clase 26 - Ejercicio Integrador de Sistemas - Máquina POS saldos tarjeta crédito y tickets](https://github.com/KathyAlde21/maquina_pos.git)
+- [Clase 27 - Test Unitarios - Máquina POS saldos test en tarjeta de crédito](https://github.com/KathyAlde21/test-pos)
 - [Clase 28 - Resolucion de Ejercicios // Batalla Pokemon, Detener el Tiempo, Secuencia de Fibonacci, Karaka](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/clase28appmov)
 - [Clase 29 - Ejercicios y Lectura de Sprint // Cifrado - Excepcion - Generar Pass ](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/clase29appmov)
 - [Clase 30 - Ejercicio Integrador Poo - Aplicacion Pokemon](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/clase30appmov)
-- [Clase 31 - Final Sprint Dos]-()
 
 - [Clase Reforzamiento](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/clasereforzamiento)
 
