@@ -36,15 +36,15 @@
 **_<h2>Módulo 3 - Fundamentos de Bases de Datos Relacionales</h2>_**
 
 - [Clase 2 - Creando Base de Datos en MySQL](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase2appmov)
-- [Clase 3 - Consultas Select]-()
-- [Clase 4 - CRUD]-()
-- [Clase 5 - Ejercicios Select - Relaciones]-()
-- [Clase 6 - Relaciones entre Tablas - Ejercicios JOIN]-()
-- [Clase 7 - Ejercicios JOIN - Subconsulta]-()
-- [Clase 8 - Transacciones]-()
-- [Clase 10 - Ejercicios Select SQLBolt]-()
-- [Clase 11 - Ejercicios SQLBolt partTwo]-()
-- [Clase 12 - Vistas, Procesos Almacenados y Triggers]-()
+- [Clase 3 - Consultas Select - DISTINTIC, WHERE, CONCAT, GROUP BY, LIKE](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase3appmov)
+- [Clase 4 - CRUD - crear, leer, actualizar, eliminar](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase4appmov)
+- [Clase 5 - Ejercicios Select - Relaciones]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase5appmov)
+- [Clase 6 - Relaciones entre Tablas - Ejercicios JOIN]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase6appmov)
+- [Clase 7 - Ejercicios JOIN - Subconsulta]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase7appmov)
+- [Clase 8 - Transacciones]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase8appmov)
+- [Clase 10 - Ejercicios Select SQLBolt]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase10appmov)
+- [Clase 11 - Ejercicios SQLBolt partTwo]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase11appmov)
+- [Clase 12 - Vistas, Procesos Almacenados y Triggers]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase12appmov)
 - [Final Sprint Tres]-()
 
 
@@ -72,7 +72,7 @@
 - [Clase 29 - Ejercicios y Lectura de Sprint // Cifrado - Excepcion - Generar Pass ](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_2/clase29appmov)
 - [Clase 30 - Ejercicio Integrador Poo - Aplicacion Pokemon](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_2/clase30appmov)
 
-- [Clase Reforzamiento](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/clasereforzamiento)
+- [Clase Reforzamiento]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/clasereforzamiento)
 
 
 **_<h2>Color en la Consola</h2>_**
