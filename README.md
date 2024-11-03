@@ -73,7 +73,7 @@
 - [Clase 29 - Ejercicios y Lectura de Sprint // Cifrado - Excepcion - Generar Pass ](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_2/clase29appmov)
 - [Clase 30 - Ejercicio Integrador Poo - Aplicacion Pokemon](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_2/clase30appmov)
 
-- [Clase Reforzamiento]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/clasereforzamiento)
+- [Clase Reforzamiento]
 
 
 **_<h2>Color en la Consola</h2>_**
