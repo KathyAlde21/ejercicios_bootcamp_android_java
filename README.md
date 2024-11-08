@@ -43,8 +43,7 @@
 - [Clase 7 - Ejercicios JOIN - Subconsulta - Expresiones valor Booleano, consultas y actualizar](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase7appmov)
 - [Clase 8 - Transacciones - START TRANSACTION, ROLBACK, COMMIT](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase8appmov)
 - [Clase 9 - Modelo Entidad Relación - Proceso de Abstraccion, Modelo Conceptual, Atributos e Identificadores, Tipos de Relaciones](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase9appmov)
-- [Clase 10 - Ejercicios Select SQLBolt]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase10appmov)
-- [Clase 11 - Ejercicios SQLBolt partTwo]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase11appmov)
+- [Clase 10 y 11 - Ejercicios Select SQLBolt directamente en página web](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase10appmov) - [Link Web SQLBOLT](https://sqlbolt.com/lesson/select_queries_review)
 - [Clase 12 - Vistas, Procesos Almacenados y Triggers]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase12appmov)
 - [Final Sprint Tres]-()
 
