@@ -1,0 +1,5 @@
+se resolvieron ejercicios en la página:
+
+https://sqlbolt.com/lesson/select_queries_review
+
+en  medida que completas permite ir al siguiente
