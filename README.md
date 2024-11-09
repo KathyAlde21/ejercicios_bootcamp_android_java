@@ -44,7 +44,7 @@
 - [Clase 8 - Transacciones - START TRANSACTION, ROLBACK, COMMIT](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase8appmov)
 - [Clase 9 - Modelo Entidad Relación - Proceso de Abstraccion, Modelo Conceptual, Atributos e Identificadores, Tipos de Relaciones](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase9appmov)
 - [Clase 10 y 11 - Ejercicios Select SQLBolt directamente en página web](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase10appmov) - [Link Web SQLBOLT](https://sqlbolt.com/lesson/select_queries_review)
-- [Clase 12 - Vistas, Procesos Almacenados y Triggers]-(https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase12appmov)
+- [Clase 12 - Vistas, Procesos Almacenados y Triggers](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase12appmov)
 - [Final Sprint Tres]-()
 
 
