@@ -32,7 +32,6 @@
 - [Clase 9 - Ejercicio Integrador]-()
 - [Clase 10 - WebView]-()
 
-
 **_<h2>Módulo 3 - Fundamentos de Bases de Datos Relacionales</h2>_**
 
 - [Clase 2 - Creando Base de Datos en MySQL](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase2appmov)
@@ -70,6 +69,7 @@
 - [Clase 28 - Resolucion de Ejercicios // Batalla Pokemon, Detener el Tiempo, Secuencia de Fibonacci, Karaka](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_2/clase28appmov)
 - [Clase 29 - Ejercicios y Lectura de Sprint // Cifrado - Excepcion - Generar Pass ](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_2/clase29appmov)
 - [Clase 30 - Ejercicio Integrador Poo - Aplicacion Pokemon](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_2/clase30appmov)
+
 
 
 **_<h2>Color en la Consola</h2>_**

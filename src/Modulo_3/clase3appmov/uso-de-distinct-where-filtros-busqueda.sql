@@ -1,4 +1,4 @@
--- DISTINTC
+-- DISTINCT
 -- junto a un select DISTINCT busca los datos distintos, elimina en el llamado los repetidos
 SELECT DISTINCT nombre_columna FROM nombre_tabla; -- asi se escribe
 
