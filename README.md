@@ -1,5 +1,34 @@
-**_<h1 align="center">:vulcan_salute: Trabajos Realizados en Clase :computer:</h1>_**
-**_<h2>Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android</h2>_**
+**_<h2 align="center">:vulcan_salute: Trabajos Realizados en Clase :computer:</h2>_**
+**_<h3>Preparación para la Certificación</h3>_**
+- [Clase Reforzamiento Prueba de Certificación]-()
+
+
+**_<h3>Módulo 7 - Desarrollo de Portafolio de un Producto Digital</h3>_**
+- [Clase 1 - App Heroes (Backend)]-()
+- [Clase 2 - App Heroes (Frontend)]-()
+- [Clase 3 - App Heroes (Tests)]-()
+
+**_<h3>Módulo 6 - Desarrollo de Aplicaciones Empresariales Android</h3>_**
+- [Clase 1 - App Wish List (Frontend)]-()
+- [Clase 2 - App Wish List (Backend)]-()
+- [Clase 3 - App Games (Retrofit API) | Parte 1]-()
+- [Clase 4 - App Games (Retrofit API) | Parte 2]-()
+- [Clase 5 - App Games (Retrofit API) | Parte 3]-()
+- [Clase 6 - App Category]-()
+- [Clase 7 - App Maps - Geolocalización]-()
+- [Clase 8 - App Random User - Integrador (Backend)]-()
+- [Clase 9 - App Random User - Integrador (Frontend)]-()
+- [Clase 10 - App Random User - Test Unitario]-()
+- [Clase 11 - App Random User - Test Instrumental]-()
+- [Clase 12 - Api's]-()
+- [Clase 13 - App Wallet (Backend)]-()
+- [Clase 14 - App Wallet]-()
+- [Clase 15 - App Gemini ChatBot]-()
+- [Clase 16 - App Notes Firebase]-()
+- [Clase 17 - App Notes Firebase - Parte 2]-()
+
+
+**_<h3>Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android</h3>_**
 
 - [Clase 1 - Fundamentos en Kotlin]-()
 - [Clase 2 - Fundamentos en Kotlin, Parte 2]-()
@@ -18,9 +47,11 @@
 - [Clase 15 - App Translator]-()
 - [Clase 16 - App Camera]-()
 - [Clase 17 - App Voice]-()
+- [Clase 18 - Room Parte 1]-()
+- [Clase 19 - Room Parte 2]-()
 
 
-**_<h2>Módulo 4 - Desarrollo de la Interfaz de Usuario Android</h2>_**
+**_<h3>Módulo 4 - Desarrollo de la Interfaz de Usuario Android</h3>_**
 
 - [Clase 2 - Layouts]-()
 - [Clase 3 - Interfaz Gráfica - ConstraintLayout - Strings - Colors - Guidelines]-()
@@ -32,7 +63,7 @@
 - [Clase 9 - Ejercicio Integrador]-()
 - [Clase 10 - WebView]-()
 
-**_<h2>Módulo 3 - Fundamentos de Bases de Datos Relacionales</h2>_**
+**_<h3>Módulo 3 - Fundamentos de Bases de Datos Relacionales</h3>_**
 
 - [Clase 2 - Creando Base de Datos en MySQL](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase2appmov)
 - [Clase 3 - Consultas Select - DISTINTIC, WHERE, CONCAT, GROUP BY, LIKE](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase3appmov)
@@ -46,7 +77,7 @@
 - [Clase 12 - Vistas, Procesos Almacenados y Triggers](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_3/clase12appmov)
 
 
-**_<h2>Módulo 2 - Fundamentos de Programación en Java</h2>_**
+**_<h3>Módulo 2 - Fundamentos de Programación en Java</h3>_**
 
 - [Clase 10 - Variables y Tipos de Datos, String, Scanner](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_2/clase10appmov)
 - [Clase 11 - Operadores, If-Else, Operador Ternario, Switch-Case](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/master/src/Modulo_2/clase11appmov)
@@ -72,7 +103,7 @@
 
 
 
-**_<h2>Color en la Consola</h2>_**
+**_<h3>Color en la Consola</h3>_**
 Se debe escribir el código en cada línea, sirve para destacar una frase o mensaje
 - [codigo](https://github.com/KathyAlde21/ejercicios_bootcamp_android_java/tree/b8880a7ce7dfd2dbd97e02788427877cf06371d0/src/ColorEnConsola)
 
